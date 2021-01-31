@@ -1,0 +1,16 @@
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\bin\Debug\net5.0\Desafio1.exe
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\bin\Debug\net5.0\Desafio1.deps.json
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\bin\Debug\net5.0\Desafio1.runtimeconfig.json
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\bin\Debug\net5.0\Desafio1.runtimeconfig.dev.json
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\bin\Debug\net5.0\Desafio1.dll
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\bin\Debug\net5.0\ref\Desafio1.dll
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\bin\Debug\net5.0\Desafio1.pdb
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\obj\Debug\net5.0\Desafio1.csprojAssemblyReference.cache
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\obj\Debug\net5.0\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\obj\Debug\net5.0\Desafio1.AssemblyInfoInputs.cache
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\obj\Debug\net5.0\Desafio1.AssemblyInfo.cs
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\obj\Debug\net5.0\Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\obj\Debug\net5.0\Desafio1.dll
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\obj\Debug\net5.0\ref\Desafio1.dll
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\obj\Debug\net5.0\Desafio1.pdb
+C:\Users\dsoba\OneDrive\Desktop\DigitalInnovationOne\Desafio-C#\Desafio1\obj\Debug\net5.0\Desafio1.genruntimeconfig.cache
